@@ -47,7 +47,7 @@ Mi objetivo profesional es contribuir a proyectos que combinen tecnología y cre
 
 ## 📫 Contacto
 - **Email:** [adrianmoralesariascontacto@gmail.com](mailto:adrianmoralesariascontacto@gmail.com)
-- **GitHub:** [github.com/adrianmorales](https://github.com/AdrianMoralesArias)
+- **GitHub:** [https://github.com/AdrianMoralesArias](https://github.com/AdrianMoralesArias)
 - **LinkedIn:** [linkedin.com/in/adrianmorales](https://www.linkedin.com/in/adrian-morales-arias-3593b733b/)
 
 ---
