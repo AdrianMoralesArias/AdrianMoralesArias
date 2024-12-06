@@ -53,4 +53,4 @@ Mi objetivo profesional es contribuir a proyectos que combinen tecnología y cre
 
 ---
 
-¡Gracias por visitar mi portafolio! 🚀
+¡Gracias por visitar mi perfil! 🚀
