@@ -35,7 +35,7 @@ Recientemente graduado como Técnico Medio en Electrónica con especialización 
 ## 🌟 Proyectos Destacados
 1. **Automatización de inventario y reportes del mismo.**
 2. **Plataforma web de gestión.**
-3. **IA Evolutiva**
+3. [**IA Evolutiva**](https://github.com/AdrianMoralesArias/IA-Evolutiva)
 
 
 ---
