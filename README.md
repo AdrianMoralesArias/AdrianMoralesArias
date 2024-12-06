@@ -29,7 +29,6 @@ Recientemente graduado como Técnico Medio en Electrónica con especialización 
 - Diseño y mantenimiento de circuitos electrónicos
 - Redes de telecomunicaciones
 - Desarrollo web
-- Prototipado de soluciones IoT
 
 ---
 
