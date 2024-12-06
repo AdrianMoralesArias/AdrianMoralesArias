@@ -34,9 +34,10 @@ Recientemente graduado como Técnico Medio en Electrónica con especialización 
 ---
 
 ## 🌟 Proyectos Destacados
-1. **Sistema IoT para monitoreo remoto de sensores:** Prototipo desarrollado con Arduino y Python para recopilar y analizar datos ambientales.
-2. **Videojuego en Godot Engine:** Creación de un juego 2D interactivo usando GDScript.
-3. **Página web personal:** Diseño y desarrollo de una página web responsiva utilizando HTML5, CSS3 y JavaScript.
+1. **Automatización de inventario y reportes del mismo.**
+2. **Plataforma web de gestión.**
+3. **IA Evolutiva**
+
 
 ---
 
